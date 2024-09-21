@@ -1,5 +1,5 @@
 {
-  "author": "zain",
+  "author": "Nayan",
   "autoRestart": true,
   "accpetPending": false,
   "developermode": false,
@@ -7,7 +7,7 @@
   "notification": false,
   "approval": false,
   "saveState": true,
-  "BOTNAME": "zain-bot",
+  "BOTNAME": "nayan-bot",
   "PREFIX": ".",
   "OPERATOR": [
     "100014896964436",
