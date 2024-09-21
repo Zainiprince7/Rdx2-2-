@@ -1,5 +1,5 @@
 {
-  "author": "Nayan",
+  "author": "zain",
   "autoRestart": true,
   "accpetPending": false,
   "developermode": false,
@@ -7,17 +7,17 @@
   "notification": false,
   "approval": false,
   "saveState": true,
-  "BOTNAME": "nayan-bot",
-  "PREFIX": "/",
+  "BOTNAME": "zain-bot",
+  "PREFIX": ".",
   "OPERATOR": [
-    "100014896964436",
+    "61556810035456",
     "100000959749712"
   ],
   "ADMINBOT": [
-    "100000959749712",
+    "61554593814364",
     ""
   ],
-  "OWNER": ["100000959749712"], 
+  "OWNER": ["61554593814364"], 
   "APPROVED": [],
   "disabledcmds": [],
   "disabledevents": [],
